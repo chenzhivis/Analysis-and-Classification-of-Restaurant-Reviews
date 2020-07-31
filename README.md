@@ -63,6 +63,7 @@ The way we preprocess the data really has an influence on prediction. The way th
 
 ### The classifier model developed in this project can be used to classify negative reviews of similar fast food restaurant (KFC, Burger King, etc), here is a sample classification of KFC reviews (data from Yelp API): 
 
+![Screen Shot 2020-07-30 at 9 30 22 PM](https://user-images.githubusercontent.com/64159084/88990479-0945d200-d2ac-11ea-9801-380a966aab86.png)
 
 ## Project presentation link:
 
