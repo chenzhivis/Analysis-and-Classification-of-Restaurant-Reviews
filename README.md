@@ -51,7 +51,7 @@ Recommendations: McDonald's store managers should pay close attention to employe
 SlowService is the second major complaint among customers. One of the main reasons that people choose to eat fast food is to save time. Our SlowService corpus statistics show that people are complaining about less staff, long wait time, etc.
 Recommendations: Restaurant managers should arrange more staff to work during rush hours or establish a more efficient process to serve guests.
 
-![](/Users/chenzhi/Downloads/negative_reviews.png)
+![negative_reviews](https://user-images.githubusercontent.com/64159084/88987217-3e99f200-d2a3-11ea-99a1-7cdef47e33a6.png)
 
 ### Accuracy and F1 score metrics are appropriate in this project:
 
