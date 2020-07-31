@@ -67,5 +67,5 @@ The way we preprocess the data really has an influence on prediction. The way th
 
 ## Project presentation link:
 
-
+https://docs.google.com/spreadsheets/d/1pmSGwP-IvdLDpKhyXfn7sl3eWXwaCsxy-7t5gjiHA9c/edit#gid=601231408
 
