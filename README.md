@@ -61,7 +61,7 @@ The metrics we used to evaluate our models are the accuracy score and weighted f
 
 The way we preprocess the data really has an influence on prediction. The way the corpus is preprocessed will differentiate the results. For example, in this project, we found out that stemming works better than lemmatization while normally lemmatization will do a better job than stemming. This is because we are dealing with Yelp reviews. When writing Yelp reviews, many people do not pay attention to proper grammar rules, some times not even completing words, they don't fully complete their sentances and they are trying to write as simple as possible as long as they can express their dissatisfaction. In this particular case, it makes sense that stemming works better. Thus, in NLP, data scientists shall firstly look into the corpus, understand how the texts look like and then determine which preprocessing steps make sense.
 
-### The classifier model developed in this project can be used for similar fast food restaurant (KFC, Burger King, etc):
+### The classifier model developed in this project can be used to classify negative reviews of similar fast food restaurant (KFC, Burger King, etc), here is a sample classification of KFC reviews (data from Yelp API): 
 
 
 ## Project presentation link:
