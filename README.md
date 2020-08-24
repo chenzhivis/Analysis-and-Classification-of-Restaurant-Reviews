@@ -1,4 +1,5 @@
-# Mod4-Project
+# Analysis and Classifying Restaurant Reviews
+
 Flatiron Mod4 Project
 
 ## Brief background
