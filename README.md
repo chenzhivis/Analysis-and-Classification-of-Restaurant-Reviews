@@ -1,7 +1,5 @@
 # Analysis and Classifying Restaurant Reviews
 
-Flatiron Mod4 Project
-
 ## Brief background
 It is essential for a restaurant manager to know feedbacks from clients (like what are the defects in services, how people feel about the food, etc) in order to improve the customer satisfaction and restaurants' overall business. The most important resource of feedback are guests' reviews, especially those negative reviews. However, looking through thousands of guests' reviews can too time-consuming and frustrating. Moreover, third party platform like Yelp just give ratings without information regarding why reviews are negative (type of drawbacks). Wouldn't it be perfect to have a NLP classification model that can classify different types of negative reviews for a restaurant manager before he look into those reviews?
 
