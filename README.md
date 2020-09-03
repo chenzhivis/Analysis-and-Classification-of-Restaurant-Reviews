@@ -1,9 +1,9 @@
 # Analysis and Classification of Restaurant Reviews
 
 ## Brief background
-It is essential for a restaurant manager to know feedbacks from clients (like what are the defects in services, how people feel about the food, etc) in order to improve the customer satisfaction and restaurants' overall business. The most important resource of feedback are guests' reviews, especially those negative reviews. However, looking through thousands of guests' reviews can too time-consuming and frustrating. Moreover, third party platform like Yelp just give ratings without information regarding why reviews are negative (type of drawbacks). Wouldn't it be perfect to have a NLP classification model that can classify different types of negative reviews for a restaurant manager before he look into those reviews?
+It is essential for a restaurant manager to know feedbacks from clients (like what are the defects in services, how people feel about the food, etc) in order to improve the customer satisfaction and restaurants' overall business. The most important resource of feedback are guests' reviews, especially those negative reviews. However, looking through thousands of guests' reviews can be too time-consuming and frustrating. Moreover, third party platform like Yelp just give ratings without information regarding why ratings are low or reviews are negative (type of drawbacks). Wouldn't it be perfect to have a NLP classification model that can classify different types of negative reviews for a restaurant manager before he look into those reviews?
 
-In this project, we use a McDonald's review dataset and reviews we collected using Yelp API to analyze the negative reviews, to analyze feedbacks from McDonalds' guests and KFC guests, to give an idea about how various fast food restaurants do in different cities, and finally to establish a NLP classification model that can classify negative reviews for restaurant managers.
+In this project, we use a McDonald's review dataset and reviews we collected using Yelp API to analyze the negative reviews, to analyze feedbacks from McDonalds' guests and KFC guests, to give an idea about how various fast food restaurants do in different cities, and finally to establish NLP classification models that can classify negative reviews for restaurant managers.
 
 ## Goals of this project: 
 
@@ -11,7 +11,7 @@ In this project, we use a McDonald's review dataset and reviews we collected usi
 
 (2) get an idea about how various fast food restaurants do in different cities (what are the different defects in services, food, etc); 
 
-(3) develop an NLP classification model that can classify negative reviews for restaurant managers, help the manager save time on absorbing information, help restaurants improve the business. 
+(3) develop NLP classification models that can classify negative reviews for restaurant managers, help the manager save time on absorbing information, help restaurants improve the business. 
 
 (4) try our model on a similar fast food restaurant's (KFC) reviews. 
 
