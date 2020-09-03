@@ -25,7 +25,7 @@ KFC restaurant reviews we collected using Yelp API.
 
 ## This repository contains the following files:
 
-*  mod4_project.ipynb, -- the main jupyter notebook of this project, containing 6 parts: 
+*  AnalysisandClassificationofRestaurantReviews.ipynb, -- the main jupyter notebook of this project, containing 6 parts: 
 1. Data collection, API and cleaning
 2. Explanatory Data Analysis, descriptive statistics of reviews
 3. Preprocessing & feature engineering
@@ -33,7 +33,7 @@ KFC restaurant reviews we collected using Yelp API.
 5. Models evaluation
 6. Business conclusion and discussion
 
-*  mod4_API.ipynb, -- the jupyter notebook for Yelp API to get KFC restaurants reviews, clean up and to save data to .csv file
+*  review_API.ipynb, -- the jupyter notebook for Yelp API to get KFC restaurants reviews, clean up and to save data to .csv file
 
 *  McDonalds-Yelp-Sentiment-DFE.csv, -- the dataset that contains 1525 observations of reviews, cities, sentiments, etc from clients who ate in McDonald's stores. 
 
