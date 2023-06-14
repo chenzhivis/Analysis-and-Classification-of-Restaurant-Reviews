@@ -13,9 +13,9 @@ In this project, we use a McDonald's review dataset and reviews we collected usi
 
 (3) develop NLP classification models that can classify negative reviews for restaurant managers, help the manager save time on absorbing information, help restaurants improve the business. 
 
-(4) try our model on a similar fast food restaurant's (KFC) reviews. 
+(4) try various ML technics, deep learning, xgboost to build NLP models, evaluate models. 
 
-(5) sell this NLP classification model to a restaurant manager for $1,000.
+(5) try our model on a similar fast food restaurant's (KFC) reviews.
 
 ## Resources of data:
 McDonald's review dataset from data.world: 
